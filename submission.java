@@ -11,5 +11,8 @@ public class submission {
 
         int c=A+B;
         System.out.println("Submission="+c);
+       c=A-B;
+        System.out.println("Subtraction="+c);
+        
     }
 }
