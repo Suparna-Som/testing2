@@ -8,8 +8,9 @@ public class submission {
         System.out.println("Enter value of A and B");
         int A=s1.nextInt();
         int B=s1.nextInt();
-
         int c=A+B;
-        System.out.println("Submission="+c);
+        System.out.println("Addition="+c);
+        int d = A-B;
+        System.out.println("Substraction = "+d);
     }
 }
